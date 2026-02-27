@@ -6,12 +6,20 @@ on:
     - cron: '0 0 * * *'
   workflow_dispatch:  # 允许手动触发
 
+# 赋予 GITHUB_TOKEN 写权限
+permissions:
+  contents: write
+
 jobs:
   fetch:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
+        with:
+          # 如果使用 GITHUB_TOKEN，通常不需要 fetch-depth: 0，除非你需要完整的 git 历史
+          # 但如果你想避免某些 checkout 问题，可以加上
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -32,6 +40,8 @@ jobs:
 
       - name: Rename data file with date
         run: |
+          # 确保 data 目录存在
+          mkdir -p data
           # 重命名 posts.json 为 posts-YYYY-MM-DD.json
           mv posts.json data/posts-${{ steps.date.outputs.date }}.json
           echo "Data file renamed to posts-${{ steps.date.outputs.date }}.json"
@@ -42,4 +52,5 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add data/posts-${{ steps.date.outputs.date }}.json
           git diff --quiet && git diff --staged --quiet || git commit -m "chore: update reddit data for ${{ steps.date.outputs.date }}"
+          # 使用 GITHUB_TOKEN 进行推送，只要 permissions 配置正确即可
           git push
