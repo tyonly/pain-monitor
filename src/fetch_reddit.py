@@ -63,3 +63,5 @@ if __name__ == "__main__":
     with open("posts.json", "w") as f:
         json.dump(posts, f, indent=2)
     print("已保存到 posts.json")
+
+# Ensure this file is pushed to remote
