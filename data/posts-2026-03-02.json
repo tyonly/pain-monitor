@@ -1,0 +1,33 @@
+[
+  {
+    "platform": "Reddit",
+    "subreddit": "r/startups",
+    "title": "When is the perfect time to launch? I will not promote",
+    "content": "<!-- SC_OFF --><div class=\"md\"><p>I am in the process of finalizing an app that solves something Ive struggled with for years (mainly after covid), and I have two months just fixing and adjusting and making edits non stop. People have told me I need to launch it as is and have users just give me fee",
+    "matched_keywords": [
+      "struggle"
+    ],
+    "url": "https://www.reddit.com/r/startups/comments/1rigejt/when_is_the_perfect_time_to_launch_i_will_not/"
+  },
+  {
+    "platform": "Reddit",
+    "subreddit": "r/SaaS",
+    "title": "Bug that affected three customers taught me more about retention than any strategy deck",
+    "content": "<!-- SC_OFF --><div class=\"md\"><p>Deploy went out Friday afternoon. Edge case bug affected a specific data configuration that</p> <p>exactly three customers had. Not a widespread issue. Barely registered in our monitoring.</p> <p>Monday morning all three had written in. Two were frustrated. One was ",
+    "matched_keywords": [
+      "frustrated",
+      "alternative"
+    ],
+    "url": "https://www.reddit.com/r/SaaS/comments/1rigdf0/bug_that_affected_three_customers_taught_me_more/"
+  },
+  {
+    "platform": "Reddit",
+    "subreddit": "r/Entrepreneur",
+    "title": "I went to school for technical writing. How can I make this lucrative depite modern tech?",
+    "content": "<!-- SC_OFF --><div class=\"md\"><p>I find AI writing drives me crazy. Much like articles today, where you have to skip past the first three one or two sentence paragraphs to get to the meat. But I have an entire degree in an art form many look at as being irrelevant, but I don't believe so. Just look",
+    "matched_keywords": [
+      "looking for"
+    ],
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1rif62r/i_went_to_school_for_technical_writing_how_can_i/"
+  }
+]
