@@ -1,0 +1,32 @@
+[
+  {
+    "platform": "Reddit",
+    "subreddit": "r/startups",
+    "title": "At what point do you stop \u201cpushing through\u201d and admit something isn\u2019t working? (I will not promote)",
+    "content": "<!-- SC_OFF --><div class=\"md\"><p>I\u2019ve been building for a while now. Launched a couple of products. Put real time into them. Late nights, weekends, all of it.</p> <p>No real traction.</p> <p>I also tried bringing on a cofounder at one point. That didn\u2019t work out either. Different pace, different ex",
+    "matched_keywords": [
+      "looking for"
+    ],
+    "url": "https://www.reddit.com/r/startups/comments/1rj32t7/at_what_point_do_you_stop_pushing_through_and/"
+  },
+  {
+    "platform": "Reddit",
+    "subreddit": "r/SaaS",
+    "title": "How I automated the \"SaaS plumbing\" (Next.js 16 + Supabase + i18n) so I never have to write boilerplate again",
+    "content": "<!-- SC_OFF --><div class=\"md\"><p>Building the actual core features of a SaaS is fun. Wiring up Stripe webhooks, configuring middleware for 21 locales (RTL included), and setting up granular RBAC roles for teams? Not so much.</p> <p>I\u2019ve spent the last few months building a CLI tool to automate this",
+    "matched_keywords": [
+      "looking for"
+    ],
+    "url": "https://www.reddit.com/r/SaaS/comments/1rjc7o5/how_i_automated_the_saas_plumbing_nextjs_16/"
+  },
+  {
+    "platform": "Reddit",
+    "subreddit": "r/Entrepreneur",
+    "title": "Advice on Hiring first Rep",
+    "content": "<!-- SC_OFF --><div class=\"md\"><p>I am starting the process to hiring my first rep and am looking for advice on conservative and safe ways to go about and budget for this. </p> <p>How much should I have set aside to be safe?</p> <p>Are there any other things I should be thinking about? </p> <p>I am ",
+    "matched_keywords": [
+      "looking for"
+    ],
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1rjbw3t/advice_on_hiring_first_rep/"
+  }
+]
