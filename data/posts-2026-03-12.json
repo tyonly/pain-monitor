@@ -1,0 +1,32 @@
+[
+  {
+    "platform": "Reddit",
+    "subreddit": "r/startups",
+    "title": "/** I will not promote */ Drowning in \"founder productivity\" nonsense",
+    "content": "<!-- SC_OFF --><div class=\"md\"><p>I'm a short ways into my startup journey and I'm so frustrated with how difficult it is to keep track of my own work. My day is an endless cyclone of customer feedback, investor meetings, conversations with my cofounder, advice from mentors, whiteboarding sessions, ",
+    "matched_keywords": [
+      "frustrated"
+    ],
+    "url": "https://www.reddit.com/r/startups/comments/1rrblkm/i_will_not_promote_drowning_in_founder/"
+  },
+  {
+    "platform": "Reddit",
+    "subreddit": "r/SaaS",
+    "title": "I built Primatomic: managed event sourcing with materialized views defined in WASM",
+    "content": "<!-- SC_OFF --><div class=\"md\"><p>I'm a distributed systems engineer, and one pattern I kept seeing was teams spending months building the same thing: append-only event logs with some way to derive state from them. Ledgers, audit trails, billing meters, workflow engines all follow the same pattern; ",
+    "matched_keywords": [
+      "looking for"
+    ],
+    "url": "https://www.reddit.com/r/SaaS/comments/1rregea/i_built_primatomic_managed_event_sourcing_with/"
+  },
+  {
+    "platform": "Reddit",
+    "subreddit": "r/Entrepreneur",
+    "title": "Is content pointless if you want fast sales?",
+    "content": "<!-- SC_OFF --><div class=\"md\"><p>I'm on a niche that may have people interested on it who may not know that it exists. So, I decided to make some youtube videos to raise awareness, I tried to advertise the videos through reddit (no other free way to get quality viewers fast). I'm not in this for th",
+    "matched_keywords": [
+      "expensive"
+    ],
+    "url": "https://www.reddit.com/r/Entrepreneur/comments/1rr6fuz/is_content_pointless_if_you_want_fast_sales/"
+  }
+]
